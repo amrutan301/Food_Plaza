@@ -88,7 +88,7 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
 
 Amruta \
 Email: amrutan301@gmail.com \
-LinkedIn : https://www.linkedin.com/in/amrutan301/Food_Plaza.git
+LinkedIn : https://www.linkedin.com/in/amrutan301/
 git branch -M main/
 
 ## Thank You
